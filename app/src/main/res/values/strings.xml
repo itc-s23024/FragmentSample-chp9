@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentSample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tv_thx_title">Order Completed.</string>
+    <string name="tv_thx_desc">The following menu items have been ordered.\nThanks youfor your order.</string>
+    <string name="bt_thx_back">Back to list</string>
+    <string name="tv_menu_unit">Yen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
